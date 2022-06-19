@@ -8,7 +8,7 @@ Technologies includes and not limited to  JavaScript, HTML, CSS, Bootstrap.
 Fully responsive !
 
 
-https://webgamaliel.github.io/graciouskitchenweb
+https://webgamaliel.github.io/graciouskitchen
 
 
 
